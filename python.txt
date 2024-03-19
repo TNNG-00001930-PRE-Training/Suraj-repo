@@ -1,0 +1,1 @@
+python is both intepreted and compiled language
