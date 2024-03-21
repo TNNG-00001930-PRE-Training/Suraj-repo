@@ -1,0 +1,29 @@
+Casting
+
+Checking Data Type
+Check the datatype of the variable or value using type()
+
+Type Conversion / Type Casting
+Converting the value of one data type to another data type is called Type Conversion or Type Casting.
+
+We can convert
+
+1.String to Integer
+2. Integer to Float
+3. Float to String and so on.
+
+String to Integer
+int() converts valid data of any type to integer
+
+Integer to String
+str() converts data of any type to a string.
+
+Float to String
+float() converts valid data of any type to integer
+
+
+Summary
+1. int() -> Converts to integer data type
+2. float() -> Converts to float data type
+3. str() -> Converts to string data type
+4. bool() -> Converts to boolean data type
