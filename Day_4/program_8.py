@@ -6,5 +6,6 @@ for letter in check_case:
     up.append(letter)
   elif letter.islower():
     low.append(letter)
+
 print("UPPER CASE:",len(up))
 print("LOWER CASE:",len(low))
